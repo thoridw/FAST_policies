@@ -1,0 +1,23 @@
+{
+"communication_policy": [
+    {"who": "all", 
+    "social_norm_perception_shift": 0.5, 
+    "coping_perception_effect": 0.4,
+    "threat_perception_effect": 0,
+    "threat_communicated[prob,depth]": [0.1, 3]
+    }
+],
+"subsidies_policy": [
+    {"who": false, 
+    "strength": false,
+    "perception_effect": false
+    }
+],
+
+"innovation_policy": [
+    {"damage_reduction_DP": false,
+    "damage_reduction_WP": false,
+    "perception_effect": false
+    }
+]
+}
